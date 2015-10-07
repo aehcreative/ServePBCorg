@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Centers to Serve</name>
+		<Placemark>
+			<name>CROS Ministries</name>
+			<description><![CDATA[CROS Ministries serves the hungry in Palm Beach and Martin Counties through community collaborations.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.05222,26.613922,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Family Promise</name>
+			<description><![CDATA[Family Promise is part of a national organization with over 180 affiliates that provides temporary shelter, transportation, meals and comprehensive case management for families who are experiencing homelessness.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.065123,26.6871459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Homeless Coalition</name>
+			<description><![CDATA[The homeless coalition sponsors Project Homeless Connect three times a year. This national program brings together community volunteers, government agencies, nonprofits, businesses, service providers, faith organizations, and the private sector to help end homelessness.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0602203,26.7122092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Teach The World To Fish, Inc.</name>
+			<description><![CDATA[Teach The World To Fish is a not-for-profit organization whose mission is to provide high density nutritional opportunities to at-risk children and their families, the elderly, the homeless, and those with disabilities.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.06,26.71,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Center for Creative Education</name>
+			<description><![CDATA[An educational nonprofit that was created more than 20 years ago to strengthen the presence of the arts in the classrooms of Palm Beach County, Florida.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.054253,26.735819,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Youth for Christ</name>
+			<description><![CDATA[For over 30 years, Youth for Christ has been consistently pursuing the students of Palm Beach County in the hopes of building healthy relationships and introducing them to the person and work of Jesus.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.095414,26.762801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Young Life</name>
+			<description><![CDATA[Introducing adolescents to Jesus Christ and helping them grow in their faith.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0590804,26.8171165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big Brothers Big Sisters</name>
+			<description><![CDATA[For more than 100 years, Big Brothers Big Sisters has operated under the belief that inherent in every child is the ability to succeed and thrive in life. We develop positive relationships that have a direct and lasting effect on the lives of young people.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.1042717,26.652568500000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4-H Youth Development</name>
+			<description><![CDATA[4-H staff, volunteers and our partners create a wealth of opportunities that help young people learn and grow. Clubs, afterschool programs, in-school programs, camps, fair, leadership opportunities and a wide array of special events serve as opportunities for children to develop Competence, Confidence, Character, Caring and Connection.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.1124388,26.6851287,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAL</name>
+			<description><![CDATA[A Guardian ad Litem (GAL) is a trained, court-appointed volunteer who advocates objectively and solely for the best interests of children who are abused, abandoned or neglected and who are involved in dependency court proceedings. A GAL serves as the eyes, ears and arms of the justice system.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.053936,26.715317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>First Care</name>
+			<description><![CDATA[First Care is a Christ-centered organization providing education, counseling, and women's medical services to empower individuals to make life-affirming decisions leading to hope, health, and healing. Locations in West Palm Beach, Lake Worth, and Belle Glade.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0780245,26.6948163,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EPIC Beauty</name>
+			<description><![CDATA[Epic Beauty's mission is Loving, Helping, & Serving Women with the hope that only God can give. A small team visits the women who work in the Adult Entertainment Industry in PBC. Epic Beauty supports the women that are caught up in prostitution and homelessness on Broadway in WPB. We reach out to teens in tough situations.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0562614,26.7542059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hannah's Home</name>
+			<description><![CDATA[Hannah’s Home of South Florida provides a safe and loving Christian environment for single pregnant young women. Through counseling, life skills and continuing education, we offer hope and transform lives.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.1121493,26.9636401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Habitat for Humanity</name>
+			<description><![CDATA[Habitat for Humanity of Palm Beach County partners with families in need to build affordable homes together. Each Habitat partner family is required to invest a minimum of 400 sweat equity hours of their own labor into the construction of homes before being eligible to purchase their home utilizing a 30 year, no profit, no interest loan.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.1069279,26.7754974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Center for Family Service</name>
+			<description><![CDATA[Providing affordable, quality counseling services for residents of Palm Beach County, Center for Family Services embraces the philosophy that families should be the center of the community and in the center of every family should be a healthy connection. We are a family of caring professionals driven by the core values of commitment, quality, teamwork, pride and stewardship.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.063364,26.675155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caridad Center</name>
+			<description><![CDATA[Caridad Center's Mission is to upgrade the health, education and living standards of underserved children and families. Their vision is to eliminate the cycle of poverty for the families that we serve in South Florida.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.1823904,26.5292946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Foundcare</name>
+			<description><![CDATA[FoundCare's Health Center provides accessible, affordable high-quality medical and dental care to anyone in the community. FoundCare provides comprehensive health services to the entire community, regardless of the ability to pay.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0876692,26.6418264,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Urban League</name>
+			<description><![CDATA[The Urban League of Palm Beach County, Inc was formed by a group of concerned citizens who believed in furthering the civil rights movement in Palm Beach County and assisting African Americans and other minorities in obtaining social and economic equality.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0660044,26.7287936,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Farmworker Coordinating Council</name>
+			<description><![CDATA[The mission of the Farmworker Coordinating Council is to promote self-sufficiency and improve the quality of life of migrant and seasonal farmworkers through education, advocacy, and access to services.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0588344,26.6317383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lourdes-Noreen McKeen</name>
+			<description><![CDATA[Lourdes-Noreen McKeen is a full-service retirement community with independent and assisted living accommodations, as well as skilled nursing and short-term rehab care.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0511631,26.7105985,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vinceremos Therapeutic Riding Center</name>
+			<description><![CDATA[Vinceremos serves children and adults with developmental, physical and psychological disabilities in its dynamic stable environment. Vinceremos means "to overcome" or "to conquer" in Latin.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.2547924,26.6875621,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mental Health Association</name>
+			<description><![CDATA[The Mental Health Association of Palm Beach Count works to improve mental wellness and eliminate stigma in our community through education, advocacy, and outreach.]]></description>
+			<styleUrl>#icon-959-0BA9CC</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.061217,26.710789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-959-0BA9CC'>
+			<IconStyle>
+				<color>ffCCA90B</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
