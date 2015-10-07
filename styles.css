@@ -302,7 +302,9 @@ ul.facility     {
     border-bottom: 1px solid;
 }
 
-
+.mobile-map{
+    width: 100%;
+}
 
 iframe.desktop-map {
     display:none;
@@ -456,7 +458,7 @@ iframe.desktop-map {
         display: block;
     }
 
-    iframe.mobile-map{
+    .mobile-map{
         display: none;
     }
 
