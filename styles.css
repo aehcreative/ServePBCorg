@@ -93,7 +93,7 @@ h2 {
     font-size: 18px;
     color:white;
     line-height: 30px;
-    padding-bottom: 120px;
+    padding-bottom: 20px;
     margin: 0; 
 }
 
@@ -106,14 +106,74 @@ p strong{
     margin: 0 auto;
 }
 
-.navigation{
+.header-dropdown{
+    background-color: #none;
+    color: white;
+    padding: 10px 0 140px;
+    font-size: 25px;
+}
+
+.header-dropdown h2 {
+    float: left;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;  
+    border: none;
+    width: 40%;
+    margin: 10px 0;
+}
+
+.header-dropdown select {
+    float: left;
+    margin: 10px 0;
+    width: 50%;
+}
+
+.header-dropdown select, button:focus{
+    border:none;
+    background:none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    outline: 0;
+    /*border-bottom: 1px solid white;*/
+    text-decoration: underline;
+    border-radius: 0;
+    opacity: 1;
+}
+
+.header-dropdown select::after{
+    content:""; 
+    background: url("img/arrow.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin-right:20px;
+    float: right;
+}
+
+.header-dropdown select:hover{
+    cursor: pointer;
+}
+
+.dropdown-condensed{
     background-color: #0BC6DC;
     color: white;
     padding: 10px;
     font-size: 25px;
 }
 
-.navigation select, button:focus{
+.dropdown-condensed h2 {
+    font-size: 30px;
+    color: white;
+    text-decoration: none;  
+    border: none;
+}
+
+.dropdown-condensed select, button:focus{
     border:none;
     background:none;
     -webkit-appearance: none;
@@ -128,7 +188,7 @@ p strong{
     opacity: .7;
 }
 
-.navigation select::after{
+.dropdown-condensed select::after{
     content:""; 
     background: url("img/arrow.svg") no-repeat;
     width: 20px;
@@ -138,7 +198,7 @@ p strong{
     float: right;
 }
 
-.navigation select:hover{
+.dropdown-condensed select:hover{
     cursor: pointer;
 }
 
@@ -242,9 +302,7 @@ ul.facility     {
     border-bottom: 1px solid;
 }
 
-.mobile-map{
-    width: 100%;
-}
+
 
 iframe.desktop-map {
     display:none;
@@ -398,7 +456,7 @@ iframe.desktop-map {
         display: block;
     }
 
-    .mobile-map{
+    iframe.mobile-map{
         display: none;
     }
 
