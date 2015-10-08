@@ -75,13 +75,14 @@
                     <h2>I am interested in serving</h2>
                     <a href="#">
                         <select name="serve">
-                            <option value="homeless">The Homeless</option>
-                            <option value="children">Children &amp; Youth</option>
-                            <option value="womenandmothers">Women &amp; Mothers</option>
-                            <option value="families">Families</option>
-                            <option value="elderly">The Elderly</option>
-                            <option value="specialneeds">Special Needs</option>
-                            <option value="counselingandrecovery">Counseling &amp; Recovery</option>
+                          <select name="serve" onchange="location = this.options[this.selectedIndex].value;">
+                          <option value="#homeless">Homeless</option>
+                          <option value="#children">Children &amp;amp; Youth</option>
+                          <option value="#womenandmothers">Women &amp; Mothers</option>
+                          <option value="#families">Families</option>
+                          <option value="#elderly">Elderly</option>
+                          <option value="#specialneeds">Special Needs</option>
+                          <option value="#counselingandrecovery">Counseling &amp; Recovery</option>
                         </select>
                     </a>
                 </div>
@@ -101,14 +102,14 @@
         <div class="dropdown-condensed">
             <div class="container">
                 <h2>I am interested in serving</h2>
-                <select name="serve">
-                  <option value="homeless">Homeless</option>
-                  <option value="children">Children &amp;amp; Youth</option>
-                  <option value="womenandmothers">Women &amp; Mothers</option>
-                  <option value="families">Families</option>
-                  <option value="elderly">Elderly</option>
-                  <option value="specialneeds">Special Needs</option>
-                  <option value="counselingandrecovery">Counseling &amp; Recovery</option>
+                  <select name="serve" onchange="location = this.options[this.selectedIndex].value;">
+                  <option value="#homeless">Homeless</option>
+                  <option value="#children">Children &amp;amp; Youth</option>
+                  <option value="#womenandmothers">Women &amp; Mothers</option>
+                  <option value="#families">Families</option>
+                  <option value="#elderly">Elderly</option>
+                  <option value="#specialneeds">Special Needs</option>
+                  <option value="#counselingandrecovery">Counseling &amp; Recovery</option>
                 </select>
             </div>
         </div>
@@ -118,7 +119,7 @@
         
         <ul class="facility">
             
-            <h2>Homeless</h2>
+            <a name="homeless"><h2>Homeless</h2></a>
 
             <li>
                 <h3>CROS Ministries</h3>
@@ -226,7 +227,7 @@
             
         
 
-        <h2>Children &amp; Youth</h2>
+        <a name="children"><h2>Children &amp; Youth</h2></a>
             
             <li>
                 <h3>Center for Creative Education</h3>
@@ -421,7 +422,7 @@
             </li>
             
 
-        <h2>Women &amp; Mothers</h2>
+        <a name="womenandmothers"><h2>Women &amp; Mothers</h2></a>
 
             <li>
                 <h3>First Care</h3>
@@ -507,7 +508,7 @@
 
 
 
-        <h2>Families</h2>
+        <a name="families"><h2>Families</h2></a>
 
             <li>
                 <h3>Habitat for Hummanity</h3>
@@ -678,7 +679,7 @@
             <div class="line-break"></div>
 
 
-        <h2>Elderly</h2>
+        <a name="elderly"><h2>Elderly</h2></a>
 
             <li>
                 <h3>Lourdes-Noreen McKeen</h3>
@@ -706,7 +707,7 @@
                 </div>
             </li>
 
-        <h2>Special Needs</h2>
+        <a name="specialneeds"><h2>Special Needs</h2></a>
 
             <li>
                 <h3>Vinceremos Therapeutic Riding Center</h3>
@@ -734,7 +735,7 @@
                 </div>
             </li>
 
-        <h2>Counseling &amp; Recovery</h2>
+        <a name="counselingandrecovery"><h2>Counseling &amp; Recovery</h2></a>
 
             <li>
                 <h3>Mental Health Association</h3>
